@@ -43,3 +43,4 @@ C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.csproj.CoreCo
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.csproj.CopyComplete
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.dll
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.pdb
+C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\dev.runsettings
