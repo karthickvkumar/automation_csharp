@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<!-- Parameters used by tests at run time -->
+	<TestRunParameters>
+		<Parameter name="siteURL" value="https://www.npmjs.com/" />
+	</TestRunParameters>
+
+	<!-- Configurations for data collectors -->
+	<DataCollectionRunSettings>
+		<DataCollectors>
+			<!-- Configuration for blame data collector -->
+			<DataCollector friendlyName="blame" enabled="True">
+			</DataCollector>
+		</DataCollectors>
+	</DataCollectionRunSettings>
+	
+	<!-- Configuration for loggers -->
+	<LoggerRunSettings>
+		<Loggers>
+			<Logger friendlyName="trx" enabled="True">
+			</Logger>
+			<Logger friendlyName="html" enabled="True">
+			</Logger>
+			<Logger friendlyName="blame" enabled="True" />
+		</Loggers>
+	</LoggerRunSettings>
+</RunSettings>
