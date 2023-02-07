@@ -38,9 +38,10 @@ C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\System.Security.AccessCo
 C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\System.Security.Principal.Windows.xml
 C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\System.Text.Encoding.CodePages.xml
 C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.csproj.AssemblyReference.cache
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.csproj.CopyComplete
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.dll
 C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.pdb
 C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\dev.runsettings
+C:\Users\User\Code\Workout\ASP.Net\Automation\bin\Debug\test.runsettings
+C:\Users\User\Code\Workout\ASP.Net\Automation\obj\Debug\Automation.csprojAssemblyReference.cache

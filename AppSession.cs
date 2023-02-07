@@ -50,7 +50,7 @@ namespace Automation
         }
 
         [TestMethod]
-        public void LoginToGmail_WithValidData_ShouldPass()
+        public void LoginToNPM_WithValidData_ShouldPass()
         {
             Thread.Sleep(4000);
             var signinButton = webDriver.FindElement(By.Id("signin"));
